@@ -1,0 +1,5 @@
+site_name: Conversor de temperaturas
+nav:
+  - Inicio: index.md
+  - Instalación: instalacion.md
+  - Uso: uso.md
